@@ -1,0 +1,10 @@
+ARTKMarker:
+  description: ARToolKit Marker Detector (4x4 2D BarCode)
+  git: https://github.com/sugarsweetrobotics/ARTKMarker.git
+  hash: 2b1c80960a12a808ce8b6209f27d8907378f8b49
+  repo_name: ARTKMarker
+WebCamera:
+  description: Web Camera RTC with common camera interface version 2.0
+  git: https://github.com/sugarsweetrobotics/WebCamera.git
+  hash: e53b1ee5282f7f406f72072df6d916e936f0e483
+  repo_name: WebCamera
